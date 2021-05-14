@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @jsdev88
+- 👀 I’m interested in Angular
+- 🌱 I’m currently learning JavaScript
+- 💞️ I’m looking to collaborate on Angular Projects
+- 📫 How to reach me @jsdev88
